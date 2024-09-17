@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @adorenaya
+
+- 👋 Hi, I’m Danaya!
+  
 - 👀 I’m interested in technology and business
 - 🌱 I’m currently learning Javascript and HTML
 - 💞️ I’m looking to collaborate on any projects that would help me learn more
-- 📫 How to reach me danayaderouen33@gmail.com
-- 😄 Pronouns: She/Her
+ I currently study Management Information Systems at Prairie View A&M University.
 - ⚡ Fun fact: I love reading!
-  Hi! i love learning about new things, looking for internships and i am a sophomore at Prairie View A&M studying Management Information Systems. I am new to coding am learning more and more about Cs and Tech.
-<!---
-adorenaya/adorenaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!--- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorenaya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
