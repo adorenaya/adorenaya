@@ -3,7 +3,7 @@
   
 👀 I’m interested in technology and business
 
-🌱 I’m currently learning Javascript and HTML
+🌱 I’m currently learning Javascript, HTML and CSS
 
 💞️ I’m looking to collaborate on any projects that would help me learn more
 
